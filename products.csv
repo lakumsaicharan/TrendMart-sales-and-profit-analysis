@@ -1,0 +1,111 @@
+ProductID,Category,SubCategory,ProductName,CostPrice,RetailPrice
+P0001,Fashion,Clothing,Essential T-Shirt,49.93,75.87
+P0002,Fashion,Clothing,Classic Jeans,37.23,55.09
+P0003,Fashion,Clothing,Pro Jacket,35.32,46.53
+P0004,Fashion,Clothing,Ultra T-Shirt,35.32,55.09
+P0005,Fashion,Clothing,Essential Shirt,71.58,93.5
+P0006,Fashion,Clothing,Modern Shirt,55.35,88.06
+P0007,Fashion,Clothing,Urban T-Shirt,30.61,41.46
+P0008,Fashion,Clothing,Classic T-Shirt,50.85,68.9
+P0009,Fashion,Clothing,Pro Jacket,44.84,64.1
+P0010,Fashion,Clothing,Lite Shirt,6.46,9.58
+P0011,Fashion,Footwear,Classic Boots,31.44,44.33
+P0012,Fashion,Footwear,Deluxe Loafers,25.15,36.14
+P0013,Fashion,Footwear,Pro Loafers,27.41,39.86
+P0014,Fashion,Footwear,Prime Sandals,51.95,76.77
+P0015,Fashion,Footwear,Classic Boots,42.44,57.34
+P0016,Fashion,Footwear,Deluxe Loafers,29.69,39.18
+P0017,Fashion,Footwear,Eco Sandals,27.99,37.21
+P0018,Fashion,Footwear,Ultra Boots,58.95,88.74
+P0019,Fashion,Footwear,Eco Sneakers,19.57,28.35
+P0020,Fashion,Footwear,Modern Loafers,36.76,48.17
+P0021,Fashion,Accessories,Modern Bag,35.41,53.07
+P0022,Fashion,Accessories,Eco Scarf,47.79,66.6
+P0023,Fashion,Accessories,Smart Watch,95.57,129.54
+P0024,Fashion,Accessories,Deluxe Belt,63.87,101.61
+P0025,Fashion,Accessories,Lite Watch,44.37,69.95
+P0026,Fashion,Accessories,Urban Watch,57.64,76.46
+P0027,Fashion,Accessories,Lite Bag,19.82,27.38
+P0028,Fashion,Accessories,Essential Scarf,8.33,12.9
+P0029,Fashion,Accessories,Eco Scarf,13.07,19.12
+P0030,Fashion,Accessories,Pro Watch,22.39,30.05
+P0031,Electronics,Mobile,Classic Charger,211.64,281.96
+P0032,Electronics,Mobile,Smart Phone Model,217.75,292.4
+P0033,Electronics,Mobile,Pro Phone Model,195.86,230.91
+P0034,Electronics,Mobile,Urban Cover,187.53,256.12
+P0035,Electronics,Mobile,Comfort Cover,169.84,198.01
+P0036,Electronics,Mobile,Ultra Cover,221.99,272.55
+P0037,Electronics,Mobile,Eco Charger,223.59,292.77
+P0038,Electronics,Mobile,Essential Cover,182.04,249.72
+P0039,Electronics,Mobile,Deluxe Phone Model,179.24,238.09
+P0040,Electronics,Mobile,Prime Charger,198.48,266.0
+P0041,Electronics,Laptop,Lite Bag,229.91,292.78
+P0042,Electronics,Laptop,Pro Laptop Model,206.76,264.79
+P0043,Electronics,Laptop,Comfort Dock,192.03,226.01
+P0044,Electronics,Laptop,Smart Bag,198.78,230.16
+P0045,Electronics,Laptop,Deluxe Bag,171.62,219.18
+P0046,Electronics,Laptop,Pro Bag,220.85,304.09
+P0047,Electronics,Laptop,Eco Laptop Model,189.31,253.46
+P0048,Electronics,Laptop,Pro Laptop Model,170.1,205.34
+P0049,Electronics,Laptop,Eco Dock,195.76,233.01
+P0050,Electronics,Laptop,Smart Laptop Model,191.46,264.68
+P0051,Electronics,Audio,Pro Soundbar,210.03,287.29
+P0052,Electronics,Audio,Deluxe Speaker,223.16,301.47
+P0053,Electronics,Audio,Pro Soundbar,227.44,312.51
+P0054,Electronics,Audio,Comfort Speaker,203.51,250.22
+P0055,Electronics,Audio,Essential Speaker,194.87,244.91
+P0056,Electronics,Audio,Ultra Speaker,192.64,260.93
+P0057,Electronics,Audio,Ultra Headphones,146.9,177.09
+P0058,Electronics,Audio,Deluxe Soundbar,206.91,244.15
+P0059,Electronics,Audio,Lite Speaker,209.06,257.31
+P0060,Electronics,Audio,Deluxe Soundbar,196.68,251.69
+P0061,Electronics,Wearable,Urban Fitness Band,181.14,252.32
+P0062,Electronics,Wearable,Eco Smartwatch,228.08,317.17
+P0063,Electronics,Wearable,Ultra Fitness Band,199.63,244.59
+P0064,Electronics,Wearable,Modern Smartwatch,166.53,203.37
+P0065,Electronics,Wearable,Modern Smartwatch,202.05,257.75
+P0066,Electronics,Wearable,Essential Smartwatch,191.35,222.52
+P0067,Electronics,Wearable,Essential Fitness Band,209.56,253.54
+P0068,Electronics,Wearable,Prime Smartwatch,194.82,231.1
+P0069,Electronics,Wearable,Urban Fitness Band,206.8,250.33
+P0070,Electronics,Wearable,Prime Fitness Band,199.85,263.41
+P0071,Home & Kitchen,Furniture,Lite Chair,64.49,92.35
+P0072,Home & Kitchen,Furniture,Lite Sofa,95.46,128.1
+P0073,Home & Kitchen,Furniture,Essential Sofa,108.1,149.6
+P0074,Home & Kitchen,Furniture,Essential Chair,107.85,137.25
+P0075,Home & Kitchen,Furniture,Essential Chair,70.13,90.93
+P0076,Home & Kitchen,Furniture,Modern Chair,98.46,124.08
+P0077,Home & Kitchen,Furniture,Urban Dining Table,114.13,143.14
+P0078,Home & Kitchen,Furniture,Comfort Sofa,97.47,134.32
+P0079,Home & Kitchen,Furniture,Deluxe Chair,92.98,120.28
+P0080,Home & Kitchen,Furniture,Lite Dining Table,55.54,79.02
+P0081,Home & Kitchen,Cookware,Lite Pan,92.41,118.69
+P0082,Home & Kitchen,Cookware,Essential Knife Set,76.78,102.52
+P0083,Home & Kitchen,Cookware,Essential Mixer,72.87,103.11
+P0084,Home & Kitchen,Cookware,Prime Pan,91.12,132.52
+P0085,Home & Kitchen,Cookware,Ultra Knife Set,107.28,140.59
+P0086,Home & Kitchen,Cookware,Ultra Mixer,130.78,166.52
+P0087,Home & Kitchen,Cookware,Lite Pan,51.2,68.47
+P0088,Home & Kitchen,Cookware,Prime Knife Set,103.81,148.6
+P0089,Home & Kitchen,Cookware,Comfort Pan,92.35,117.38
+P0090,Home & Kitchen,Cookware,Modern Knife Set,104.34,134.64
+P0091,Home & Kitchen,Decor,Smart Vase,84.53,105.86
+P0092,Home & Kitchen,Decor,Classic Vase,96.95,123.65
+P0093,Home & Kitchen,Decor,Prime Vase,83.5,118.82
+P0094,Home & Kitchen,Decor,Modern Lamp,55.66,78.65
+P0095,Home & Kitchen,Decor,Comfort Vase,94.69,123.98
+P0096,Home & Kitchen,Decor,Lite Vase,60.91,81.09
+P0097,Home & Kitchen,Decor,Ultra Lamp,95.4,139.5
+P0098,Home & Kitchen,Decor,Comfort Lamp,105.37,149.04
+P0099,Home & Kitchen,Decor,Ultra Wall Art,62.65,84.07
+P0100,Home & Kitchen,Decor,Lite Lamp,82.92,109.15
+P0101,Home & Kitchen,Bedding,Urban Duvet,97.57,137.36
+P0102,Home & Kitchen,Bedding,Lite Sheet Set,75.21,108.96
+P0103,Home & Kitchen,Bedding,Deluxe Duvet,134.69,184.95
+P0104,Home & Kitchen,Bedding,Deluxe Pillow,81.88,106.35
+P0105,Home & Kitchen,Bedding,Urban Sheet Set,60.74,76.29
+P0106,Home & Kitchen,Bedding,Essential Pillow,99.54,140.49
+P0107,Home & Kitchen,Bedding,Comfort Sheet Set,77.52,115.63
+P0108,Home & Kitchen,Bedding,Comfort Duvet,94.81,141.35
+P0109,Home & Kitchen,Bedding,Pro Duvet,70.95,95.52
+P0110,Home & Kitchen,Bedding,Modern Pillow,95.54,139.75

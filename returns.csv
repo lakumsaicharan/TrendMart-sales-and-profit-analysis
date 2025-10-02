@@ -1,0 +1,1081 @@
+OrderID,ReturnDate,Reason,ProductID,Category
+ORD005185,2024-02-13,Changed Mind,P0054,Electronics
+ORD017698,2023-10-06,Late Delivery,P0032,Electronics
+ORD007884,2021-07-18,Changed Mind,P0098,Home & Kitchen
+ORD005105,2024-12-22,Not as Described,P0095,Home & Kitchen
+ORD005437,2023-01-04,Changed Mind,P0104,Home & Kitchen
+ORD007127,2019-10-03,Late Delivery,P0031,Electronics
+ORD010066,2023-05-23,Not as Described,P0039,Electronics
+ORD009316,2022-01-14,Damaged,P0091,Home & Kitchen
+ORD011442,2020-10-02,Wrong Item,P0076,Home & Kitchen
+ORD008278,2024-08-23,Damaged,P0016,Fashion
+ORD005211,2021-01-07,Not as Described,P0107,Home & Kitchen
+ORD016929,2023-01-01,Changed Mind,P0094,Home & Kitchen
+ORD014281,2021-12-31,Damaged,P0098,Home & Kitchen
+ORD009542,2022-02-17,Wrong Item,P0107,Home & Kitchen
+ORD010997,2024-03-25,Changed Mind,P0109,Home & Kitchen
+ORD009547,2024-11-02,Damaged,P0023,Fashion
+ORD008487,2022-10-14,Wrong Item,P0091,Home & Kitchen
+ORD012698,2021-11-16,Changed Mind,P0058,Electronics
+ORD001435,2022-01-11,Changed Mind,P0095,Home & Kitchen
+ORD004311,2019-06-07,Wrong Item,P0097,Home & Kitchen
+ORD013703,2023-05-27,Size Issue,P0008,Fashion
+ORD000470,2019-07-20,Not as Described,P0001,Fashion
+ORD014728,2020-10-13,Wrong Item,P0098,Home & Kitchen
+ORD012737,2019-04-08,Not as Described,P0001,Fashion
+ORD008642,2019-02-03,Not as Described,P0109,Home & Kitchen
+ORD014271,2020-05-14,Damaged,P0089,Home & Kitchen
+ORD005567,2022-01-14,Damaged,P0029,Fashion
+ORD010078,2023-05-24,Damaged,P0071,Home & Kitchen
+ORD000289,2022-10-24,Changed Mind,P0017,Fashion
+ORD000023,2022-01-09,Not as Described,P0042,Electronics
+ORD001555,2020-03-04,Defective,P0069,Electronics
+ORD013057,2022-02-15,Wrong Item,P0098,Home & Kitchen
+ORD001603,2020-09-07,Not as Described,P0071,Home & Kitchen
+ORD003527,2024-07-13,Changed Mind,P0005,Fashion
+ORD012243,2024-12-27,Not as Described,P0011,Fashion
+ORD012467,2019-06-26,Changed Mind,P0050,Electronics
+ORD007837,2024-06-14,Damaged,P0017,Fashion
+ORD015449,2019-11-26,Not as Described,P0030,Fashion
+ORD010113,2021-06-04,Not as Described,P0110,Home & Kitchen
+ORD015113,2019-02-04,Size Issue,P0013,Fashion
+ORD002939,2024-09-16,Not as Described,P0084,Home & Kitchen
+ORD005647,2022-05-05,Not as Described,P0061,Electronics
+ORD004755,2024-02-27,Late Delivery,P0031,Electronics
+ORD016686,2024-05-25,Not as Described,P0079,Home & Kitchen
+ORD009946,2020-04-25,Size Issue,P0018,Fashion
+ORD001722,2020-12-11,Wrong Item,P0086,Home & Kitchen
+ORD016948,2022-07-30,Changed Mind,P0048,Electronics
+ORD002872,2023-07-26,Changed Mind,P0102,Home & Kitchen
+ORD003544,2022-04-07,Late Delivery,P0043,Electronics
+ORD012422,2021-01-17,Late Delivery,P0058,Electronics
+ORD002369,2024-07-05,Changed Mind,P0027,Fashion
+ORD006783,2024-01-16,Late Delivery,P0035,Electronics
+ORD005382,2020-03-02,Defective,P0040,Electronics
+ORD012244,2023-01-06,Damaged,P0019,Fashion
+ORD015208,2020-01-24,Defective,P0069,Electronics
+ORD009628,2021-09-29,Damaged,P0087,Home & Kitchen
+ORD016557,2019-08-22,Damaged,P0087,Home & Kitchen
+ORD003607,2024-01-15,Not as Described,P0035,Electronics
+ORD014322,2021-02-08,Defective,P0065,Electronics
+ORD014601,2020-04-12,Changed Mind,P0070,Electronics
+ORD002061,2023-05-06,Size Issue,P0026,Fashion
+ORD001326,2022-11-15,Not as Described,P0081,Home & Kitchen
+ORD011034,2024-11-17,Not as Described,P0051,Electronics
+ORD006351,2023-12-29,Changed Mind,P0021,Fashion
+ORD002053,2021-08-02,Changed Mind,P0007,Fashion
+ORD004182,2019-08-02,Damaged,P0015,Fashion
+ORD010680,2020-05-23,Damaged,P0109,Home & Kitchen
+ORD011680,2019-09-04,Changed Mind,P0039,Electronics
+ORD008283,2020-12-31,Not as Described,P0095,Home & Kitchen
+ORD008047,2024-01-15,Wrong Item,P0074,Home & Kitchen
+ORD004746,2024-01-11,Late Delivery,P0065,Electronics
+ORD015053,2019-08-30,Damaged,P0093,Home & Kitchen
+ORD002989,2021-10-16,Changed Mind,P0076,Home & Kitchen
+ORD005339,2022-04-11,Changed Mind,P0065,Electronics
+ORD011586,2019-10-24,Not as Described,P0096,Home & Kitchen
+ORD012129,2022-08-12,Damaged,P0089,Home & Kitchen
+ORD015790,2019-05-04,Not as Described,P0048,Electronics
+ORD012103,2020-06-01,Not as Described,P0034,Electronics
+ORD001983,2022-10-20,Damaged,P0099,Home & Kitchen
+ORD013464,2022-06-27,Late Delivery,P0053,Electronics
+ORD008150,2022-09-02,Not as Described,P0002,Fashion
+ORD007810,2024-11-29,Damaged,P0072,Home & Kitchen
+ORD014070,2022-11-24,Changed Mind,P0036,Electronics
+ORD004897,2019-12-05,Not as Described,P0010,Fashion
+ORD013969,2025-01-10,Not as Described,P0016,Fashion
+ORD015476,2021-07-04,Not as Described,P0017,Fashion
+ORD017136,2023-11-26,Damaged,P0028,Fashion
+ORD002252,2020-04-12,Changed Mind,P0018,Fashion
+ORD000882,2023-02-24,Changed Mind,P0105,Home & Kitchen
+ORD002609,2020-11-21,Damaged,P0096,Home & Kitchen
+ORD006150,2020-05-09,Size Issue,P0011,Fashion
+ORD014419,2024-05-28,Wrong Item,P0102,Home & Kitchen
+ORD001061,2024-01-02,Not as Described,P0058,Electronics
+ORD006530,2022-01-30,Size Issue,P0025,Fashion
+ORD016076,2023-05-16,Not as Described,P0101,Home & Kitchen
+ORD003057,2021-12-18,Changed Mind,P0083,Home & Kitchen
+ORD007958,2020-02-15,Not as Described,P0046,Electronics
+ORD002772,2019-07-07,Defective,P0046,Electronics
+ORD004313,2024-07-30,Wrong Item,P0101,Home & Kitchen
+ORD014279,2024-12-29,Late Delivery,P0053,Electronics
+ORD003346,2021-05-06,Damaged,P0106,Home & Kitchen
+ORD012038,2021-10-15,Damaged,P0002,Fashion
+ORD016083,2024-12-25,Damaged,P0021,Fashion
+ORD016435,2022-08-17,Defective,P0064,Electronics
+ORD007632,2019-10-25,Changed Mind,P0045,Electronics
+ORD003115,2020-10-22,Not as Described,P0018,Fashion
+ORD005767,2019-10-04,Size Issue,P0029,Fashion
+ORD000207,2019-12-03,Defective,P0055,Electronics
+ORD008016,2022-11-17,Late Delivery,P0067,Electronics
+ORD001289,2019-11-10,Damaged,P0009,Fashion
+ORD002200,2022-07-12,Changed Mind,P0022,Fashion
+ORD001623,2022-05-30,Damaged,P0097,Home & Kitchen
+ORD010143,2023-09-12,Not as Described,P0035,Electronics
+ORD003350,2020-03-04,Defective,P0070,Electronics
+ORD015977,2024-01-07,Damaged,P0020,Fashion
+ORD002004,2022-03-06,Changed Mind,P0074,Home & Kitchen
+ORD004282,2022-06-14,Damaged,P0022,Fashion
+ORD004720,2022-03-20,Damaged,P0098,Home & Kitchen
+ORD005614,2023-08-07,Not as Described,P0105,Home & Kitchen
+ORD008167,2019-12-28,Not as Described,P0011,Fashion
+ORD008653,2022-12-08,Changed Mind,P0030,Fashion
+ORD009822,2024-12-29,Late Delivery,P0065,Electronics
+ORD010305,2024-03-17,Damaged,P0011,Fashion
+ORD009058,2020-10-14,Not as Described,P0063,Electronics
+ORD006923,2022-01-01,Wrong Item,P0105,Home & Kitchen
+ORD004225,2021-03-31,Changed Mind,P0030,Fashion
+ORD013081,2024-04-06,Late Delivery,P0052,Electronics
+ORD007729,2020-05-11,Damaged,P0002,Fashion
+ORD008531,2023-01-07,Not as Described,P0004,Fashion
+ORD005917,2019-12-21,Wrong Item,P0101,Home & Kitchen
+ORD000363,2024-09-18,Changed Mind,P0088,Home & Kitchen
+ORD000167,2023-09-29,Size Issue,P0013,Fashion
+ORD000532,2020-03-05,Changed Mind,P0074,Home & Kitchen
+ORD006190,2023-07-04,Not as Described,P0032,Electronics
+ORD008875,2022-10-26,Not as Described,P0069,Electronics
+ORD006681,2019-12-02,Changed Mind,P0086,Home & Kitchen
+ORD005566,2024-10-29,Defective,P0062,Electronics
+ORD011833,2020-11-24,Defective,P0056,Electronics
+ORD010377,2022-03-24,Size Issue,P0001,Fashion
+ORD005508,2023-10-23,Changed Mind,P0024,Fashion
+ORD011063,2023-12-01,Not as Described,P0077,Home & Kitchen
+ORD005645,2021-02-02,Damaged,P0088,Home & Kitchen
+ORD009381,2023-01-23,Late Delivery,P0062,Electronics
+ORD004543,2021-01-11,Not as Described,P0023,Fashion
+ORD006817,2020-03-03,Not as Described,P0073,Home & Kitchen
+ORD011954,2024-07-28,Damaged,P0017,Fashion
+ORD003851,2020-02-15,Size Issue,P0008,Fashion
+ORD011178,2020-04-11,Changed Mind,P0077,Home & Kitchen
+ORD009060,2023-05-30,Damaged,P0076,Home & Kitchen
+ORD001350,2020-07-12,Defective,P0067,Electronics
+ORD007749,2023-03-11,Wrong Item,P0082,Home & Kitchen
+ORD000759,2024-12-20,Damaged,P0102,Home & Kitchen
+ORD006531,2021-01-10,Late Delivery,P0049,Electronics
+ORD016606,2024-01-21,Size Issue,P0013,Fashion
+ORD015904,2020-12-07,Changed Mind,P0030,Fashion
+ORD007092,2022-02-16,Damaged,P0014,Fashion
+ORD014724,2022-05-22,Changed Mind,P0048,Electronics
+ORD009096,2023-01-12,Damaged,P0020,Fashion
+ORD006414,2021-01-14,Changed Mind,P0102,Home & Kitchen
+ORD011234,2021-02-15,Changed Mind,P0019,Fashion
+ORD004970,2020-01-16,Damaged,P0026,Fashion
+ORD006298,2021-01-14,Changed Mind,P0031,Electronics
+ORD008649,2024-09-15,Damaged,P0085,Home & Kitchen
+ORD001393,2023-09-20,Changed Mind,P0109,Home & Kitchen
+ORD017286,2024-11-16,Not as Described,P0019,Fashion
+ORD010317,2022-10-02,Not as Described,P0063,Electronics
+ORD011702,2024-01-18,Damaged,P0091,Home & Kitchen
+ORD000966,2023-01-17,Wrong Item,P0109,Home & Kitchen
+ORD001113,2019-11-27,Late Delivery,P0051,Electronics
+ORD000448,2022-04-13,Damaged,P0107,Home & Kitchen
+ORD007357,2020-05-14,Size Issue,P0016,Fashion
+ORD012309,2020-09-19,Size Issue,P0029,Fashion
+ORD002352,2019-01-12,Changed Mind,P0082,Home & Kitchen
+ORD014689,2020-04-29,Changed Mind,P0018,Fashion
+ORD013179,2024-11-06,Changed Mind,P0091,Home & Kitchen
+ORD011147,2022-05-21,Not as Described,P0017,Fashion
+ORD007614,2020-04-13,Changed Mind,P0009,Fashion
+ORD003219,2023-11-13,Size Issue,P0015,Fashion
+ORD004581,2020-01-17,Not as Described,P0018,Fashion
+ORD006846,2020-08-16,Damaged,P0011,Fashion
+ORD015704,2023-10-09,Wrong Item,P0074,Home & Kitchen
+ORD015918,2019-06-01,Not as Described,P0060,Electronics
+ORD017953,2021-01-09,Damaged,P0019,Fashion
+ORD009824,2020-04-21,Late Delivery,P0041,Electronics
+ORD015613,2019-08-20,Wrong Item,P0074,Home & Kitchen
+ORD017017,2021-10-17,Late Delivery,P0067,Electronics
+ORD006615,2020-02-12,Size Issue,P0013,Fashion
+ORD002351,2021-01-09,Not as Described,P0063,Electronics
+ORD009902,2023-12-19,Damaged,P0006,Fashion
+ORD001678,2022-09-08,Not as Described,P0057,Electronics
+ORD012153,2019-08-20,Not as Described,P0086,Home & Kitchen
+ORD001891,2020-12-31,Damaged,P0105,Home & Kitchen
+ORD011066,2021-04-04,Not as Described,P0059,Electronics
+ORD002085,2021-04-30,Changed Mind,P0077,Home & Kitchen
+ORD006549,2019-11-01,Damaged,P0027,Fashion
+ORD014379,2023-11-21,Changed Mind,P0088,Home & Kitchen
+ORD016863,2021-07-25,Damaged,P0024,Fashion
+ORD001554,2023-01-08,Wrong Item,P0085,Home & Kitchen
+ORD002492,2022-12-09,Not as Described,P0040,Electronics
+ORD003003,2019-12-08,Defective,P0061,Electronics
+ORD014874,2022-12-11,Wrong Item,P0100,Home & Kitchen
+ORD017501,2021-09-04,Changed Mind,P0083,Home & Kitchen
+ORD003259,2019-07-21,Not as Described,P0020,Fashion
+ORD010650,2023-11-27,Changed Mind,P0039,Electronics
+ORD011410,2022-12-19,Changed Mind,P0051,Electronics
+ORD004128,2019-07-12,Defective,P0070,Electronics
+ORD000307,2022-12-03,Damaged,P0004,Fashion
+ORD005385,2024-01-29,Changed Mind,P0070,Electronics
+ORD008205,2021-06-05,Not as Described,P0101,Home & Kitchen
+ORD006149,2024-05-26,Changed Mind,P0094,Home & Kitchen
+ORD007106,2020-04-07,Not as Described,P0036,Electronics
+ORD006847,2024-07-12,Damaged,P0020,Fashion
+ORD015329,2021-07-31,Late Delivery,P0043,Electronics
+ORD007145,2024-07-24,Not as Described,P0080,Home & Kitchen
+ORD015461,2024-03-09,Not as Described,P0110,Home & Kitchen
+ORD012598,2020-07-08,Wrong Item,P0096,Home & Kitchen
+ORD010643,2020-01-01,Not as Described,P0013,Fashion
+ORD016330,2023-01-10,Changed Mind,P0100,Home & Kitchen
+ORD006747,2022-12-04,Damaged,P0074,Home & Kitchen
+ORD000970,2021-10-25,Defective,P0032,Electronics
+ORD013361,2019-12-19,Late Delivery,P0036,Electronics
+ORD011513,2022-12-20,Not as Described,P0008,Fashion
+ORD012680,2022-05-01,Changed Mind,P0107,Home & Kitchen
+ORD006027,2020-04-13,Changed Mind,P0023,Fashion
+ORD002113,2019-05-31,Damaged,P0076,Home & Kitchen
+ORD013119,2020-08-30,Size Issue,P0020,Fashion
+ORD014210,2020-08-22,Late Delivery,P0041,Electronics
+ORD010843,2020-12-15,Changed Mind,P0050,Electronics
+ORD000457,2023-02-20,Not as Described,P0082,Home & Kitchen
+ORD005690,2019-03-18,Size Issue,P0015,Fashion
+ORD012582,2020-12-22,Not as Described,P0077,Home & Kitchen
+ORD002435,2021-09-01,Changed Mind,P0067,Electronics
+ORD014283,2019-12-31,Not as Described,P0048,Electronics
+ORD013032,2022-06-22,Not as Described,P0076,Home & Kitchen
+ORD015036,2023-06-03,Late Delivery,P0057,Electronics
+ORD011308,2021-09-01,Late Delivery,P0059,Electronics
+ORD017032,2021-01-06,Wrong Item,P0077,Home & Kitchen
+ORD006183,2022-07-19,Damaged,P0022,Fashion
+ORD008125,2020-07-04,Not as Described,P0060,Electronics
+ORD010409,2019-06-18,Wrong Item,P0084,Home & Kitchen
+ORD013920,2023-01-25,Changed Mind,P0031,Electronics
+ORD003731,2020-07-02,Not as Described,P0055,Electronics
+ORD008970,2022-04-16,Defective,P0054,Electronics
+ORD002126,2021-11-15,Late Delivery,P0068,Electronics
+ORD006207,2021-02-23,Size Issue,P0005,Fashion
+ORD003143,2025-01-22,Damaged,P0081,Home & Kitchen
+ORD001214,2024-12-09,Damaged,P0101,Home & Kitchen
+ORD012520,2020-03-03,Changed Mind,P0043,Electronics
+ORD013145,2021-12-15,Not as Described,P0030,Fashion
+ORD015149,2020-01-14,Size Issue,P0001,Fashion
+ORD012539,2020-02-12,Damaged,P0106,Home & Kitchen
+ORD005625,2023-01-15,Not as Described,P0026,Fashion
+ORD015835,2024-05-08,Not as Described,P0055,Electronics
+ORD001339,2025-01-19,Damaged,P0008,Fashion
+ORD009548,2023-11-15,Damaged,P0071,Home & Kitchen
+ORD002754,2024-08-05,Defective,P0063,Electronics
+ORD013961,2024-05-08,Defective,P0037,Electronics
+ORD004353,2024-07-18,Size Issue,P0012,Fashion
+ORD017416,2022-03-06,Late Delivery,P0059,Electronics
+ORD000686,2019-11-23,Late Delivery,P0070,Electronics
+ORD015813,2023-03-12,Late Delivery,P0039,Electronics
+ORD002431,2021-05-18,Wrong Item,P0080,Home & Kitchen
+ORD013429,2024-03-07,Changed Mind,P0021,Fashion
+ORD012016,2022-11-05,Changed Mind,P0064,Electronics
+ORD010102,2021-10-30,Defective,P0048,Electronics
+ORD011820,2019-12-26,Not as Described,P0089,Home & Kitchen
+ORD010126,2024-01-05,Changed Mind,P0097,Home & Kitchen
+ORD013219,2022-10-28,Damaged,P0010,Fashion
+ORD017320,2022-09-12,Damaged,P0086,Home & Kitchen
+ORD012324,2019-05-03,Not as Described,P0045,Electronics
+ORD013681,2024-12-16,Late Delivery,P0037,Electronics
+ORD014643,2019-08-09,Changed Mind,P0009,Fashion
+ORD002941,2021-01-17,Late Delivery,P0038,Electronics
+ORD014853,2024-05-28,Not as Described,P0018,Fashion
+ORD013817,2020-05-17,Changed Mind,P0024,Fashion
+ORD001030,2022-07-06,Wrong Item,P0101,Home & Kitchen
+ORD013505,2023-12-21,Size Issue,P0019,Fashion
+ORD006185,2019-12-04,Not as Described,P0101,Home & Kitchen
+ORD005025,2021-01-24,Defective,P0069,Electronics
+ORD003431,2020-08-08,Changed Mind,P0054,Electronics
+ORD014915,2020-03-28,Damaged,P0090,Home & Kitchen
+ORD015562,2021-05-01,Not as Described,P0099,Home & Kitchen
+ORD016605,2019-05-09,Not as Described,P0018,Fashion
+ORD016186,2023-03-08,Not as Described,P0076,Home & Kitchen
+ORD010819,2024-09-13,Late Delivery,P0064,Electronics
+ORD006869,2019-12-03,Changed Mind,P0091,Home & Kitchen
+ORD010168,2020-03-18,Changed Mind,P0022,Fashion
+ORD003025,2021-12-25,Damaged,P0023,Fashion
+ORD004698,2021-07-07,Not as Described,P0036,Electronics
+ORD014453,2022-02-04,Late Delivery,P0041,Electronics
+ORD016525,2024-08-13,Size Issue,P0007,Fashion
+ORD015860,2021-02-10,Late Delivery,P0042,Electronics
+ORD002376,2022-01-20,Changed Mind,P0105,Home & Kitchen
+ORD001767,2022-12-31,Changed Mind,P0034,Electronics
+ORD005559,2025-01-07,Not as Described,P0011,Fashion
+ORD015441,2019-09-06,Not as Described,P0034,Electronics
+ORD005051,2024-07-12,Changed Mind,P0012,Fashion
+ORD017709,2019-02-11,Changed Mind,P0089,Home & Kitchen
+ORD013987,2020-02-14,Changed Mind,P0056,Electronics
+ORD007535,2024-10-04,Defective,P0066,Electronics
+ORD009002,2023-11-11,Changed Mind,P0035,Electronics
+ORD000919,2025-01-07,Changed Mind,P0099,Home & Kitchen
+ORD002917,2021-09-05,Changed Mind,P0106,Home & Kitchen
+ORD004509,2025-01-12,Not as Described,P0026,Fashion
+ORD012759,2022-12-26,Not as Described,P0042,Electronics
+ORD015674,2020-01-11,Defective,P0037,Electronics
+ORD013359,2024-06-12,Damaged,P0097,Home & Kitchen
+ORD006521,2020-01-13,Late Delivery,P0035,Electronics
+ORD013352,2019-03-16,Changed Mind,P0071,Home & Kitchen
+ORD015177,2020-12-02,Changed Mind,P0071,Home & Kitchen
+ORD010799,2019-12-10,Changed Mind,P0074,Home & Kitchen
+ORD016562,2022-09-22,Not as Described,P0022,Fashion
+ORD010682,2021-11-06,Wrong Item,P0091,Home & Kitchen
+ORD017738,2020-12-07,Not as Described,P0029,Fashion
+ORD009664,2019-11-23,Changed Mind,P0008,Fashion
+ORD016832,2022-07-27,Not as Described,P0095,Home & Kitchen
+ORD010655,2021-09-05,Size Issue,P0028,Fashion
+ORD006768,2022-06-25,Size Issue,P0004,Fashion
+ORD015814,2019-08-26,Not as Described,P0093,Home & Kitchen
+ORD002864,2023-08-11,Changed Mind,P0068,Electronics
+ORD003264,2019-09-19,Changed Mind,P0023,Fashion
+ORD007780,2020-09-13,Wrong Item,P0095,Home & Kitchen
+ORD010178,2019-12-30,Not as Described,P0010,Fashion
+ORD004479,2019-07-29,Late Delivery,P0063,Electronics
+ORD010933,2024-12-31,Size Issue,P0021,Fashion
+ORD014967,2021-08-14,Wrong Item,P0108,Home & Kitchen
+ORD010809,2019-10-05,Wrong Item,P0102,Home & Kitchen
+ORD005056,2024-06-17,Wrong Item,P0109,Home & Kitchen
+ORD017923,2024-09-10,Not as Described,P0096,Home & Kitchen
+ORD004132,2024-06-08,Changed Mind,P0058,Electronics
+ORD013903,2024-01-09,Changed Mind,P0098,Home & Kitchen
+ORD001320,2023-08-14,Not as Described,P0105,Home & Kitchen
+ORD016285,2021-06-18,Damaged,P0018,Fashion
+ORD014812,2019-10-13,Not as Described,P0078,Home & Kitchen
+ORD004638,2020-12-23,Defective,P0053,Electronics
+ORD015034,2023-04-14,Changed Mind,P0070,Electronics
+ORD012977,2020-11-01,Wrong Item,P0095,Home & Kitchen
+ORD011481,2021-12-11,Not as Described,P0090,Home & Kitchen
+ORD001139,2019-08-06,Defective,P0036,Electronics
+ORD013045,2023-07-14,Damaged,P0016,Fashion
+ORD002793,2023-05-11,Not as Described,P0042,Electronics
+ORD017544,2021-11-24,Damaged,P0086,Home & Kitchen
+ORD006442,2022-07-16,Damaged,P0093,Home & Kitchen
+ORD014761,2021-12-14,Size Issue,P0028,Fashion
+ORD016851,2021-03-03,Wrong Item,P0073,Home & Kitchen
+ORD009300,2023-07-28,Not as Described,P0106,Home & Kitchen
+ORD013720,2023-11-07,Damaged,P0094,Home & Kitchen
+ORD004038,2022-05-07,Not as Described,P0007,Fashion
+ORD012060,2021-03-15,Changed Mind,P0104,Home & Kitchen
+ORD017130,2020-06-30,Changed Mind,P0006,Fashion
+ORD017550,2020-11-05,Defective,P0031,Electronics
+ORD002366,2024-02-14,Damaged,P0026,Fashion
+ORD017917,2020-12-03,Changed Mind,P0025,Fashion
+ORD011074,2021-11-25,Not as Described,P0021,Fashion
+ORD013687,2024-03-26,Changed Mind,P0036,Electronics
+ORD003692,2019-11-06,Not as Described,P0014,Fashion
+ORD007580,2020-04-30,Not as Described,P0106,Home & Kitchen
+ORD015249,2023-03-09,Not as Described,P0009,Fashion
+ORD010306,2020-12-31,Not as Described,P0084,Home & Kitchen
+ORD007734,2023-11-25,Not as Described,P0031,Electronics
+ORD013120,2019-02-25,Defective,P0054,Electronics
+ORD005948,2023-05-03,Defective,P0040,Electronics
+ORD005126,2023-12-27,Defective,P0049,Electronics
+ORD013765,2019-03-01,Defective,P0058,Electronics
+ORD011986,2021-01-24,Wrong Item,P0093,Home & Kitchen
+ORD003091,2020-01-19,Wrong Item,P0110,Home & Kitchen
+ORD009419,2023-04-14,Wrong Item,P0101,Home & Kitchen
+ORD007389,2021-01-20,Changed Mind,P0107,Home & Kitchen
+ORD009162,2021-12-06,Damaged,P0071,Home & Kitchen
+ORD010077,2024-04-27,Wrong Item,P0093,Home & Kitchen
+ORD010259,2022-06-24,Changed Mind,P0078,Home & Kitchen
+ORD004264,2022-03-08,Changed Mind,P0059,Electronics
+ORD011219,2020-05-26,Changed Mind,P0098,Home & Kitchen
+ORD001149,2020-01-09,Changed Mind,P0084,Home & Kitchen
+ORD016427,2021-07-05,Not as Described,P0067,Electronics
+ORD003810,2023-10-26,Not as Described,P0062,Electronics
+ORD014457,2019-07-10,Not as Described,P0023,Fashion
+ORD008163,2019-05-25,Changed Mind,P0086,Home & Kitchen
+ORD012165,2022-08-06,Late Delivery,P0069,Electronics
+ORD006740,2020-08-18,Defective,P0063,Electronics
+ORD015618,2021-01-12,Not as Described,P0101,Home & Kitchen
+ORD006030,2023-10-12,Not as Described,P0008,Fashion
+ORD016459,2021-01-11,Damaged,P0110,Home & Kitchen
+ORD004020,2019-12-28,Wrong Item,P0078,Home & Kitchen
+ORD002933,2022-04-24,Changed Mind,P0017,Fashion
+ORD000197,2019-09-13,Late Delivery,P0040,Electronics
+ORD011659,2022-10-20,Size Issue,P0021,Fashion
+ORD017461,2022-04-18,Size Issue,P0005,Fashion
+ORD013753,2024-09-18,Not as Described,P0005,Fashion
+ORD000086,2021-12-27,Not as Described,P0089,Home & Kitchen
+ORD010611,2022-01-22,Damaged,P0090,Home & Kitchen
+ORD003792,2021-08-20,Changed Mind,P0035,Electronics
+ORD001654,2024-12-03,Damaged,P0030,Fashion
+ORD014716,2021-09-09,Changed Mind,P0103,Home & Kitchen
+ORD007778,2021-03-19,Late Delivery,P0056,Electronics
+ORD012488,2023-01-28,Wrong Item,P0093,Home & Kitchen
+ORD007876,2024-05-08,Changed Mind,P0061,Electronics
+ORD017438,2020-11-15,Defective,P0051,Electronics
+ORD003659,2020-11-16,Not as Described,P0057,Electronics
+ORD000194,2024-12-20,Changed Mind,P0090,Home & Kitchen
+ORD003256,2024-02-28,Damaged,P0012,Fashion
+ORD008960,2019-07-21,Changed Mind,P0001,Fashion
+ORD006474,2021-01-27,Late Delivery,P0041,Electronics
+ORD016857,2024-01-14,Damaged,P0095,Home & Kitchen
+ORD015597,2021-11-16,Changed Mind,P0106,Home & Kitchen
+ORD003072,2023-12-02,Damaged,P0007,Fashion
+ORD004915,2019-12-09,Changed Mind,P0049,Electronics
+ORD009602,2024-04-15,Not as Described,P0048,Electronics
+ORD000945,2024-12-13,Late Delivery,P0038,Electronics
+ORD000319,2023-11-30,Not as Described,P0081,Home & Kitchen
+ORD009629,2022-07-29,Damaged,P0083,Home & Kitchen
+ORD007227,2021-12-02,Damaged,P0101,Home & Kitchen
+ORD004967,2019-07-17,Late Delivery,P0034,Electronics
+ORD016021,2022-12-10,Changed Mind,P0085,Home & Kitchen
+ORD004501,2022-01-29,Changed Mind,P0052,Electronics
+ORD010846,2023-07-26,Not as Described,P0058,Electronics
+ORD015942,2025-01-06,Not as Described,P0087,Home & Kitchen
+ORD014696,2021-11-23,Not as Described,P0097,Home & Kitchen
+ORD004775,2019-06-18,Changed Mind,P0043,Electronics
+ORD008332,2021-12-05,Wrong Item,P0107,Home & Kitchen
+ORD012581,2021-09-29,Not as Described,P0083,Home & Kitchen
+ORD017341,2020-01-21,Changed Mind,P0063,Electronics
+ORD016063,2022-02-06,Not as Described,P0110,Home & Kitchen
+ORD012014,2019-05-16,Damaged,P0079,Home & Kitchen
+ORD000351,2019-09-23,Changed Mind,P0066,Electronics
+ORD001043,2020-04-25,Defective,P0063,Electronics
+ORD014918,2020-02-03,Wrong Item,P0110,Home & Kitchen
+ORD014299,2019-12-11,Size Issue,P0017,Fashion
+ORD011162,2021-08-30,Wrong Item,P0101,Home & Kitchen
+ORD005899,2022-05-18,Changed Mind,P0063,Electronics
+ORD006513,2024-08-03,Not as Described,P0079,Home & Kitchen
+ORD016548,2022-05-10,Changed Mind,P0015,Fashion
+ORD002263,2024-10-17,Damaged,P0094,Home & Kitchen
+ORD006979,2021-10-29,Changed Mind,P0019,Fashion
+ORD006453,2024-01-05,Changed Mind,P0036,Electronics
+ORD016584,2022-10-04,Changed Mind,P0048,Electronics
+ORD002644,2022-05-17,Damaged,P0109,Home & Kitchen
+ORD004647,2024-09-06,Damaged,P0086,Home & Kitchen
+ORD001391,2022-11-20,Size Issue,P0009,Fashion
+ORD015890,2024-07-19,Damaged,P0091,Home & Kitchen
+ORD006901,2024-06-24,Not as Described,P0071,Home & Kitchen
+ORD014416,2023-01-04,Changed Mind,P0030,Fashion
+ORD012597,2022-03-19,Changed Mind,P0034,Electronics
+ORD016587,2024-04-02,Size Issue,P0019,Fashion
+ORD003550,2023-12-22,Size Issue,P0026,Fashion
+ORD012075,2019-11-14,Size Issue,P0004,Fashion
+ORD010588,2024-03-08,Damaged,P0013,Fashion
+ORD007659,2021-08-25,Wrong Item,P0090,Home & Kitchen
+ORD008178,2020-04-24,Wrong Item,P0084,Home & Kitchen
+ORD005807,2024-01-09,Late Delivery,P0032,Electronics
+ORD000018,2023-12-10,Size Issue,P0009,Fashion
+ORD016927,2024-01-15,Damaged,P0093,Home & Kitchen
+ORD002390,2023-11-16,Size Issue,P0013,Fashion
+ORD016727,2022-12-29,Late Delivery,P0036,Electronics
+ORD001769,2022-07-14,Wrong Item,P0098,Home & Kitchen
+ORD002795,2021-03-04,Damaged,P0084,Home & Kitchen
+ORD000012,2024-05-20,Damaged,P0097,Home & Kitchen
+ORD000210,2023-09-13,Damaged,P0079,Home & Kitchen
+ORD009286,2019-05-02,Not as Described,P0069,Electronics
+ORD017721,2023-07-29,Changed Mind,P0032,Electronics
+ORD006101,2022-08-15,Not as Described,P0045,Electronics
+ORD009406,2022-12-11,Wrong Item,P0082,Home & Kitchen
+ORD007951,2021-05-15,Defective,P0062,Electronics
+ORD004663,2024-09-07,Changed Mind,P0093,Home & Kitchen
+ORD002311,2019-08-05,Damaged,P0102,Home & Kitchen
+ORD012369,2024-04-09,Changed Mind,P0016,Fashion
+ORD011469,2024-04-22,Changed Mind,P0077,Home & Kitchen
+ORD003766,2020-12-22,Not as Described,P0009,Fashion
+ORD006143,2020-11-18,Changed Mind,P0014,Fashion
+ORD002935,2021-03-22,Defective,P0066,Electronics
+ORD011544,2020-07-12,Damaged,P0084,Home & Kitchen
+ORD012166,2023-11-11,Late Delivery,P0034,Electronics
+ORD014449,2019-02-08,Not as Described,P0060,Electronics
+ORD000526,2023-06-15,Wrong Item,P0083,Home & Kitchen
+ORD004734,2023-07-12,Not as Described,P0071,Home & Kitchen
+ORD012228,2024-01-16,Not as Described,P0092,Home & Kitchen
+ORD017317,2023-11-08,Changed Mind,P0108,Home & Kitchen
+ORD006569,2022-03-08,Not as Described,P0017,Fashion
+ORD014685,2024-02-11,Damaged,P0003,Fashion
+ORD000117,2019-08-03,Changed Mind,P0074,Home & Kitchen
+ORD000964,2019-09-12,Size Issue,P0018,Fashion
+ORD013970,2021-10-28,Damaged,P0072,Home & Kitchen
+ORD015181,2023-06-24,Damaged,P0098,Home & Kitchen
+ORD016504,2021-10-20,Changed Mind,P0011,Fashion
+ORD010769,2019-05-24,Damaged,P0094,Home & Kitchen
+ORD001829,2019-07-25,Damaged,P0007,Fashion
+ORD014140,2019-09-24,Damaged,P0014,Fashion
+ORD011989,2019-07-01,Changed Mind,P0044,Electronics
+ORD001428,2021-03-02,Defective,P0050,Electronics
+ORD015243,2024-01-04,Not as Described,P0012,Fashion
+ORD016800,2020-05-13,Not as Described,P0032,Electronics
+ORD012863,2022-03-08,Not as Described,P0002,Fashion
+ORD002970,2019-09-07,Wrong Item,P0097,Home & Kitchen
+ORD002597,2021-03-18,Wrong Item,P0073,Home & Kitchen
+ORD005678,2019-09-07,Size Issue,P0014,Fashion
+ORD004708,2022-06-09,Not as Described,P0026,Fashion
+ORD011319,2021-11-19,Defective,P0059,Electronics
+ORD004175,2019-10-28,Size Issue,P0020,Fashion
+ORD014334,2025-01-09,Late Delivery,P0057,Electronics
+ORD010885,2024-08-04,Wrong Item,P0074,Home & Kitchen
+ORD014000,2021-12-17,Damaged,P0028,Fashion
+ORD013413,2024-05-07,Late Delivery,P0042,Electronics
+ORD005245,2024-06-28,Not as Described,P0004,Fashion
+ORD015002,2022-12-23,Size Issue,P0009,Fashion
+ORD006944,2019-12-17,Size Issue,P0016,Fashion
+ORD000864,2019-10-20,Damaged,P0076,Home & Kitchen
+ORD016668,2023-01-05,Late Delivery,P0046,Electronics
+ORD001332,2024-12-29,Not as Described,P0062,Electronics
+ORD005515,2019-08-10,Changed Mind,P0099,Home & Kitchen
+ORD004402,2021-06-19,Defective,P0058,Electronics
+ORD013634,2023-01-26,Defective,P0050,Electronics
+ORD017744,2023-10-27,Changed Mind,P0056,Electronics
+ORD007235,2024-12-01,Not as Described,P0005,Fashion
+ORD004665,2021-05-04,Defective,P0041,Electronics
+ORD005661,2021-09-30,Wrong Item,P0083,Home & Kitchen
+ORD002064,2020-11-03,Not as Described,P0065,Electronics
+ORD012035,2020-12-08,Defective,P0041,Electronics
+ORD017224,2021-04-05,Wrong Item,P0109,Home & Kitchen
+ORD012798,2024-10-18,Changed Mind,P0080,Home & Kitchen
+ORD015160,2024-06-21,Damaged,P0019,Fashion
+ORD011524,2019-12-06,Size Issue,P0001,Fashion
+ORD014370,2021-04-17,Damaged,P0089,Home & Kitchen
+ORD007100,2022-01-14,Changed Mind,P0096,Home & Kitchen
+ORD002630,2020-05-24,Changed Mind,P0057,Electronics
+ORD008847,2021-05-25,Damaged,P0030,Fashion
+ORD013311,2022-07-02,Damaged,P0003,Fashion
+ORD015283,2024-07-30,Changed Mind,P0059,Electronics
+ORD013840,2021-10-01,Changed Mind,P0088,Home & Kitchen
+ORD004352,2023-09-22,Changed Mind,P0054,Electronics
+ORD011348,2021-06-12,Late Delivery,P0054,Electronics
+ORD009789,2019-12-11,Wrong Item,P0081,Home & Kitchen
+ORD001084,2020-04-29,Changed Mind,P0021,Fashion
+ORD016777,2020-12-30,Late Delivery,P0056,Electronics
+ORD017835,2020-08-22,Late Delivery,P0044,Electronics
+ORD003029,2020-03-17,Defective,P0050,Electronics
+ORD008374,2020-11-17,Changed Mind,P0039,Electronics
+ORD012444,2020-01-03,Wrong Item,P0071,Home & Kitchen
+ORD008307,2024-01-11,Damaged,P0073,Home & Kitchen
+ORD015464,2019-03-20,Wrong Item,P0102,Home & Kitchen
+ORD014674,2024-10-17,Wrong Item,P0083,Home & Kitchen
+ORD000233,2024-08-11,Size Issue,P0021,Fashion
+ORD003021,2022-05-01,Changed Mind,P0095,Home & Kitchen
+ORD006184,2022-06-13,Damaged,P0077,Home & Kitchen
+ORD003869,2022-03-25,Not as Described,P0025,Fashion
+ORD006998,2024-03-15,Damaged,P0016,Fashion
+ORD004305,2023-02-25,Changed Mind,P0016,Fashion
+ORD003978,2023-04-23,Not as Described,P0006,Fashion
+ORD006607,2022-12-13,Wrong Item,P0075,Home & Kitchen
+ORD011658,2024-10-03,Defective,P0051,Electronics
+ORD014708,2022-01-15,Late Delivery,P0063,Electronics
+ORD017155,2022-01-12,Late Delivery,P0067,Electronics
+ORD005361,2020-09-07,Defective,P0045,Electronics
+ORD012785,2021-11-25,Changed Mind,P0032,Electronics
+ORD006803,2019-11-20,Not as Described,P0093,Home & Kitchen
+ORD015020,2021-04-13,Size Issue,P0028,Fashion
+ORD012107,2021-12-08,Defective,P0036,Electronics
+ORD014996,2023-12-20,Changed Mind,P0066,Electronics
+ORD013247,2023-05-30,Damaged,P0022,Fashion
+ORD015354,2023-11-16,Not as Described,P0061,Electronics
+ORD001702,2025-01-28,Late Delivery,P0043,Electronics
+ORD008078,2023-08-27,Changed Mind,P0015,Fashion
+ORD014163,2022-12-06,Late Delivery,P0048,Electronics
+ORD012058,2022-11-27,Defective,P0058,Electronics
+ORD010251,2020-12-18,Changed Mind,P0099,Home & Kitchen
+ORD008102,2020-04-14,Damaged,P0102,Home & Kitchen
+ORD014538,2021-12-08,Defective,P0039,Electronics
+ORD005960,2021-07-27,Not as Described,P0019,Fashion
+ORD012753,2023-03-20,Changed Mind,P0049,Electronics
+ORD010617,2021-05-04,Defective,P0045,Electronics
+ORD017295,2022-01-08,Wrong Item,P0098,Home & Kitchen
+ORD000119,2019-03-24,Changed Mind,P0103,Home & Kitchen
+ORD015736,2023-08-21,Changed Mind,P0098,Home & Kitchen
+ORD005519,2023-06-15,Not as Described,P0028,Fashion
+ORD014433,2020-01-31,Damaged,P0105,Home & Kitchen
+ORD012619,2024-06-05,Late Delivery,P0031,Electronics
+ORD007283,2023-04-26,Damaged,P0029,Fashion
+ORD013914,2020-12-19,Late Delivery,P0059,Electronics
+ORD009043,2024-07-21,Not as Described,P0035,Electronics
+ORD010181,2021-12-12,Size Issue,P0025,Fashion
+ORD009987,2020-10-28,Not as Described,P0079,Home & Kitchen
+ORD003081,2020-04-18,Damaged,P0017,Fashion
+ORD009136,2021-11-29,Not as Described,P0049,Electronics
+ORD014964,2024-04-18,Late Delivery,P0047,Electronics
+ORD003536,2019-12-07,Not as Described,P0109,Home & Kitchen
+ORD005612,2023-06-18,Damaged,P0101,Home & Kitchen
+ORD014553,2022-07-07,Defective,P0045,Electronics
+ORD001249,2021-12-29,Not as Described,P0081,Home & Kitchen
+ORD012945,2022-01-29,Not as Described,P0052,Electronics
+ORD014309,2019-07-19,Size Issue,P0004,Fashion
+ORD016218,2021-02-22,Late Delivery,P0036,Electronics
+ORD013048,2022-02-25,Changed Mind,P0054,Electronics
+ORD008264,2024-11-17,Damaged,P0022,Fashion
+ORD012865,2022-05-08,Not as Described,P0025,Fashion
+ORD016844,2023-09-20,Not as Described,P0074,Home & Kitchen
+ORD007042,2020-01-06,Not as Described,P0097,Home & Kitchen
+ORD016315,2022-11-19,Not as Described,P0093,Home & Kitchen
+ORD011563,2022-03-08,Wrong Item,P0097,Home & Kitchen
+ORD006253,2023-12-15,Not as Described,P0009,Fashion
+ORD009375,2024-05-01,Defective,P0070,Electronics
+ORD017763,2024-05-31,Late Delivery,P0070,Electronics
+ORD012052,2024-08-19,Damaged,P0098,Home & Kitchen
+ORD006750,2024-01-14,Changed Mind,P0091,Home & Kitchen
+ORD003493,2020-05-23,Not as Described,P0060,Electronics
+ORD012493,2020-09-21,Not as Described,P0053,Electronics
+ORD012327,2019-10-18,Changed Mind,P0028,Fashion
+ORD014328,2021-12-27,Damaged,P0097,Home & Kitchen
+ORD000228,2022-12-12,Not as Described,P0020,Fashion
+ORD000519,2024-03-01,Changed Mind,P0087,Home & Kitchen
+ORD009172,2024-11-22,Not as Described,P0058,Electronics
+ORD012583,2023-01-01,Late Delivery,P0048,Electronics
+ORD010382,2021-04-08,Size Issue,P0004,Fashion
+ORD003855,2019-06-24,Not as Described,P0047,Electronics
+ORD012551,2019-06-07,Damaged,P0006,Fashion
+ORD008228,2019-02-04,Not as Described,P0079,Home & Kitchen
+ORD001627,2022-07-30,Defective,P0046,Electronics
+ORD015169,2023-03-07,Changed Mind,P0037,Electronics
+ORD006448,2022-08-05,Not as Described,P0095,Home & Kitchen
+ORD009672,2022-05-02,Changed Mind,P0103,Home & Kitchen
+ORD007423,2022-08-16,Damaged,P0009,Fashion
+ORD010428,2022-01-03,Size Issue,P0004,Fashion
+ORD011181,2021-12-22,Size Issue,P0007,Fashion
+ORD000758,2020-06-28,Defective,P0057,Electronics
+ORD008053,2020-04-26,Size Issue,P0005,Fashion
+ORD010026,2021-04-04,Late Delivery,P0069,Electronics
+ORD009849,2022-11-16,Changed Mind,P0062,Electronics
+ORD012077,2020-04-03,Changed Mind,P0103,Home & Kitchen
+ORD002391,2022-12-19,Late Delivery,P0055,Electronics
+ORD009662,2021-11-10,Changed Mind,P0082,Home & Kitchen
+ORD011572,2024-01-05,Defective,P0037,Electronics
+ORD000830,2021-09-19,Late Delivery,P0041,Electronics
+ORD000539,2022-09-26,Changed Mind,P0037,Electronics
+ORD009230,2022-11-19,Changed Mind,P0036,Electronics
+ORD013577,2021-12-07,Not as Described,P0095,Home & Kitchen
+ORD010413,2019-12-05,Not as Described,P0046,Electronics
+ORD005851,2024-08-26,Wrong Item,P0084,Home & Kitchen
+ORD013593,2019-12-22,Not as Described,P0103,Home & Kitchen
+ORD001659,2024-05-29,Changed Mind,P0060,Electronics
+ORD010493,2022-09-03,Not as Described,P0012,Fashion
+ORD010243,2020-01-15,Not as Described,P0009,Fashion
+ORD015458,2019-08-21,Damaged,P0085,Home & Kitchen
+ORD013317,2024-03-01,Defective,P0039,Electronics
+ORD004735,2022-10-31,Size Issue,P0013,Fashion
+ORD008463,2024-02-29,Late Delivery,P0058,Electronics
+ORD012266,2021-09-30,Not as Described,P0082,Home & Kitchen
+ORD017604,2022-06-07,Changed Mind,P0049,Electronics
+ORD013136,2022-11-24,Changed Mind,P0086,Home & Kitchen
+ORD017201,2019-10-24,Damaged,P0017,Fashion
+ORD008154,2019-01-28,Not as Described,P0105,Home & Kitchen
+ORD012118,2019-06-23,Damaged,P0106,Home & Kitchen
+ORD012600,2024-05-24,Changed Mind,P0048,Electronics
+ORD007629,2021-12-04,Late Delivery,P0063,Electronics
+ORD005431,2020-05-16,Size Issue,P0023,Fashion
+ORD017215,2019-03-11,Damaged,P0017,Fashion
+ORD006079,2023-06-25,Not as Described,P0054,Electronics
+ORD017303,2020-09-29,Size Issue,P0023,Fashion
+ORD011741,2019-05-16,Late Delivery,P0062,Electronics
+ORD009927,2023-07-17,Damaged,P0088,Home & Kitchen
+ORD007718,2024-12-26,Damaged,P0091,Home & Kitchen
+ORD003369,2020-06-15,Not as Described,P0033,Electronics
+ORD014501,2022-04-27,Damaged,P0108,Home & Kitchen
+ORD002966,2023-06-30,Defective,P0051,Electronics
+ORD010706,2022-06-30,Size Issue,P0021,Fashion
+ORD009193,2019-06-04,Not as Described,P0052,Electronics
+ORD014038,2023-11-02,Damaged,P0074,Home & Kitchen
+ORD017321,2019-11-18,Not as Described,P0073,Home & Kitchen
+ORD010807,2023-06-01,Damaged,P0030,Fashion
+ORD005417,2023-08-25,Defective,P0049,Electronics
+ORD000260,2024-10-31,Defective,P0046,Electronics
+ORD006510,2020-01-28,Not as Described,P0030,Fashion
+ORD005212,2020-10-20,Changed Mind,P0030,Fashion
+ORD016449,2019-06-24,Late Delivery,P0046,Electronics
+ORD016096,2022-07-28,Damaged,P0092,Home & Kitchen
+ORD015424,2020-12-12,Damaged,P0092,Home & Kitchen
+ORD017279,2021-07-14,Not as Described,P0047,Electronics
+ORD010575,2024-10-01,Not as Described,P0078,Home & Kitchen
+ORD007444,2021-09-16,Wrong Item,P0080,Home & Kitchen
+ORD008853,2020-12-04,Damaged,P0077,Home & Kitchen
+ORD017417,2022-08-02,Changed Mind,P0042,Electronics
+ORD008116,2022-11-26,Changed Mind,P0064,Electronics
+ORD012872,2019-11-11,Defective,P0038,Electronics
+ORD002186,2022-05-20,Defective,P0059,Electronics
+ORD014621,2023-08-13,Wrong Item,P0072,Home & Kitchen
+ORD013461,2019-12-11,Defective,P0040,Electronics
+ORD017548,2024-12-12,Late Delivery,P0051,Electronics
+ORD013632,2020-09-11,Changed Mind,P0075,Home & Kitchen
+ORD015782,2023-09-23,Defective,P0047,Electronics
+ORD016818,2021-03-14,Damaged,P0074,Home & Kitchen
+ORD009361,2019-10-29,Wrong Item,P0108,Home & Kitchen
+ORD008841,2023-05-01,Changed Mind,P0109,Home & Kitchen
+ORD017309,2022-12-01,Damaged,P0074,Home & Kitchen
+ORD008859,2022-04-02,Not as Described,P0047,Electronics
+ORD011492,2023-12-31,Changed Mind,P0101,Home & Kitchen
+ORD012819,2024-04-06,Changed Mind,P0081,Home & Kitchen
+ORD001607,2023-07-07,Not as Described,P0085,Home & Kitchen
+ORD006317,2021-10-07,Not as Described,P0100,Home & Kitchen
+ORD003890,2019-10-19,Wrong Item,P0086,Home & Kitchen
+ORD004968,2020-12-23,Damaged,P0007,Fashion
+ORD006508,2020-11-12,Not as Described,P0104,Home & Kitchen
+ORD001279,2022-11-27,Late Delivery,P0041,Electronics
+ORD017830,2023-02-23,Not as Described,P0016,Fashion
+ORD007900,2019-10-25,Not as Described,P0081,Home & Kitchen
+ORD010834,2024-08-13,Not as Described,P0047,Electronics
+ORD009497,2024-11-03,Changed Mind,P0094,Home & Kitchen
+ORD002817,2023-02-11,Late Delivery,P0060,Electronics
+ORD010000,2019-05-14,Damaged,P0106,Home & Kitchen
+ORD014491,2021-10-26,Wrong Item,P0098,Home & Kitchen
+ORD011652,2023-05-06,Damaged,P0100,Home & Kitchen
+ORD005154,2024-12-03,Changed Mind,P0063,Electronics
+ORD011037,2023-05-02,Late Delivery,P0031,Electronics
+ORD007551,2020-12-26,Not as Described,P0076,Home & Kitchen
+ORD016597,2021-05-12,Not as Described,P0017,Fashion
+ORD004874,2022-05-20,Size Issue,P0019,Fashion
+ORD016077,2024-11-16,Changed Mind,P0046,Electronics
+ORD016428,2024-10-25,Defective,P0058,Electronics
+ORD003720,2020-11-17,Defective,P0044,Electronics
+ORD005208,2023-12-03,Changed Mind,P0088,Home & Kitchen
+ORD015071,2024-07-01,Not as Described,P0039,Electronics
+ORD003675,2023-01-06,Damaged,P0109,Home & Kitchen
+ORD017106,2023-12-27,Changed Mind,P0041,Electronics
+ORD012263,2021-10-27,Changed Mind,P0074,Home & Kitchen
+ORD007256,2022-11-03,Late Delivery,P0046,Electronics
+ORD002295,2021-08-16,Changed Mind,P0036,Electronics
+ORD003877,2019-01-19,Not as Described,P0075,Home & Kitchen
+ORD011264,2021-06-01,Size Issue,P0002,Fashion
+ORD007292,2020-01-10,Late Delivery,P0066,Electronics
+ORD005919,2022-11-23,Not as Described,P0035,Electronics
+ORD017477,2022-11-20,Not as Described,P0092,Home & Kitchen
+ORD000976,2025-01-11,Changed Mind,P0086,Home & Kitchen
+ORD010854,2023-12-01,Damaged,P0002,Fashion
+ORD015215,2022-12-13,Not as Described,P0035,Electronics
+ORD003549,2024-11-03,Not as Described,P0074,Home & Kitchen
+ORD017068,2021-06-16,Not as Described,P0035,Electronics
+ORD015587,2024-06-26,Changed Mind,P0021,Fashion
+ORD014411,2022-04-28,Damaged,P0023,Fashion
+ORD009442,2021-10-19,Defective,P0058,Electronics
+ORD001986,2019-09-13,Wrong Item,P0094,Home & Kitchen
+ORD009165,2020-10-25,Changed Mind,P0078,Home & Kitchen
+ORD008448,2024-10-27,Damaged,P0001,Fashion
+ORD006240,2021-08-25,Size Issue,P0007,Fashion
+ORD010776,2024-01-02,Late Delivery,P0039,Electronics
+ORD016168,2023-02-05,Wrong Item,P0074,Home & Kitchen
+ORD004865,2022-01-06,Changed Mind,P0047,Electronics
+ORD000311,2019-03-11,Not as Described,P0102,Home & Kitchen
+ORD016337,2021-04-12,Changed Mind,P0106,Home & Kitchen
+ORD016216,2023-07-31,Not as Described,P0057,Electronics
+ORD005884,2021-09-01,Changed Mind,P0021,Fashion
+ORD013454,2022-07-15,Changed Mind,P0103,Home & Kitchen
+ORD011293,2021-09-30,Changed Mind,P0020,Fashion
+ORD013426,2021-11-22,Not as Described,P0025,Fashion
+ORD006321,2024-05-27,Changed Mind,P0033,Electronics
+ORD002843,2023-02-06,Wrong Item,P0088,Home & Kitchen
+ORD008369,2020-03-09,Not as Described,P0013,Fashion
+ORD008089,2022-06-23,Damaged,P0012,Fashion
+ORD014007,2019-09-06,Not as Described,P0074,Home & Kitchen
+ORD017859,2019-09-22,Size Issue,P0029,Fashion
+ORD012578,2021-03-10,Not as Described,P0031,Electronics
+ORD014455,2021-12-13,Not as Described,P0053,Electronics
+ORD003871,2024-08-03,Defective,P0036,Electronics
+ORD008658,2023-08-06,Damaged,P0006,Fashion
+ORD014032,2021-12-04,Damaged,P0010,Fashion
+ORD016458,2023-08-29,Not as Described,P0054,Electronics
+ORD005610,2019-01-26,Damaged,P0103,Home & Kitchen
+ORD005565,2022-08-29,Damaged,P0012,Fashion
+ORD017174,2019-12-25,Not as Described,P0067,Electronics
+ORD004815,2021-01-20,Damaged,P0029,Fashion
+ORD011173,2021-04-20,Changed Mind,P0085,Home & Kitchen
+ORD000356,2022-01-15,Not as Described,P0019,Fashion
+ORD012470,2024-08-09,Size Issue,P0019,Fashion
+ORD012449,2020-10-05,Changed Mind,P0103,Home & Kitchen
+ORD016331,2023-12-23,Damaged,P0011,Fashion
+ORD009389,2022-02-01,Changed Mind,P0058,Electronics
+ORD015123,2022-12-25,Changed Mind,P0022,Fashion
+ORD000601,2024-07-11,Changed Mind,P0025,Fashion
+ORD013218,2019-12-29,Size Issue,P0007,Fashion
+ORD017682,2024-02-17,Damaged,P0099,Home & Kitchen
+ORD000204,2019-02-24,Changed Mind,P0095,Home & Kitchen
+ORD012822,2024-12-02,Changed Mind,P0101,Home & Kitchen
+ORD007728,2020-04-27,Damaged,P0085,Home & Kitchen
+ORD010442,2024-06-18,Damaged,P0097,Home & Kitchen
+ORD007979,2021-11-17,Wrong Item,P0091,Home & Kitchen
+ORD000630,2019-03-05,Not as Described,P0066,Electronics
+ORD004404,2024-02-09,Damaged,P0099,Home & Kitchen
+ORD005692,2024-12-16,Damaged,P0077,Home & Kitchen
+ORD011023,2020-12-18,Changed Mind,P0011,Fashion
+ORD004021,2021-12-14,Defective,P0069,Electronics
+ORD002075,2019-01-15,Size Issue,P0019,Fashion
+ORD000706,2020-01-21,Defective,P0031,Electronics
+ORD004375,2022-01-27,Wrong Item,P0079,Home & Kitchen
+ORD015878,2023-09-09,Damaged,P0021,Fashion
+ORD009163,2019-08-22,Defective,P0050,Electronics
+ORD013280,2021-07-23,Size Issue,P0001,Fashion
+ORD007646,2020-09-27,Changed Mind,P0034,Electronics
+ORD017874,2023-03-13,Changed Mind,P0107,Home & Kitchen
+ORD008624,2019-10-23,Not as Described,P0046,Electronics
+ORD009049,2022-01-09,Late Delivery,P0055,Electronics
+ORD003726,2019-06-23,Wrong Item,P0110,Home & Kitchen
+ORD007015,2021-06-28,Damaged,P0089,Home & Kitchen
+ORD016684,2020-08-29,Changed Mind,P0017,Fashion
+ORD009528,2021-04-23,Changed Mind,P0016,Fashion
+ORD009435,2020-12-04,Size Issue,P0016,Fashion
+ORD013282,2021-12-01,Wrong Item,P0110,Home & Kitchen
+ORD002991,2023-04-24,Not as Described,P0044,Electronics
+ORD015415,2019-04-14,Changed Mind,P0037,Electronics
+ORD017553,2021-12-15,Not as Described,P0065,Electronics
+ORD012694,2022-03-26,Changed Mind,P0081,Home & Kitchen
+ORD017597,2024-02-21,Defective,P0059,Electronics
+ORD017808,2019-09-14,Not as Described,P0110,Home & Kitchen
+ORD005847,2024-05-15,Damaged,P0074,Home & Kitchen
+ORD014600,2023-09-09,Damaged,P0079,Home & Kitchen
+ORD002192,2021-11-03,Changed Mind,P0063,Electronics
+ORD005064,2020-11-09,Changed Mind,P0070,Electronics
+ORD017185,2022-11-04,Wrong Item,P0102,Home & Kitchen
+ORD000855,2023-10-05,Not as Described,P0019,Fashion
+ORD002737,2024-04-16,Not as Described,P0009,Fashion
+ORD006239,2020-12-11,Defective,P0043,Electronics
+ORD003444,2024-12-12,Size Issue,P0025,Fashion
+ORD004467,2024-09-24,Changed Mind,P0010,Fashion
+ORD002321,2021-12-24,Wrong Item,P0109,Home & Kitchen
+ORD016973,2019-12-14,Size Issue,P0003,Fashion
+ORD000116,2020-04-06,Defective,P0049,Electronics
+ORD001322,2020-06-08,Changed Mind,P0094,Home & Kitchen
+ORD016451,2022-08-30,Size Issue,P0011,Fashion
+ORD006804,2023-12-09,Changed Mind,P0094,Home & Kitchen
+ORD012039,2021-08-20,Not as Described,P0109,Home & Kitchen
+ORD010386,2023-09-21,Not as Described,P0097,Home & Kitchen
+ORD004695,2023-08-11,Changed Mind,P0097,Home & Kitchen
+ORD015199,2020-08-16,Changed Mind,P0095,Home & Kitchen
+ORD002414,2019-12-03,Damaged,P0028,Fashion
+ORD011797,2020-01-12,Not as Described,P0039,Electronics
+ORD015427,2021-01-06,Size Issue,P0015,Fashion
+ORD001461,2021-12-06,Late Delivery,P0042,Electronics
+ORD013620,2022-12-20,Not as Described,P0017,Fashion
+ORD011153,2022-10-13,Size Issue,P0021,Fashion
+ORD012083,2019-11-16,Damaged,P0004,Fashion
+ORD006488,2020-01-17,Size Issue,P0007,Fashion
+ORD017611,2019-12-27,Wrong Item,P0103,Home & Kitchen
+ORD005816,2019-11-05,Changed Mind,P0011,Fashion
+ORD012530,2019-12-19,Changed Mind,P0008,Fashion
+ORD006072,2019-09-15,Wrong Item,P0075,Home & Kitchen
+ORD009862,2019-10-25,Defective,P0051,Electronics
+ORD014819,2020-06-21,Changed Mind,P0096,Home & Kitchen
+ORD017395,2023-06-25,Changed Mind,P0074,Home & Kitchen
+ORD006609,2024-08-16,Size Issue,P0001,Fashion
+ORD001262,2020-04-17,Changed Mind,P0052,Electronics
+ORD004674,2021-12-10,Damaged,P0094,Home & Kitchen
+ORD015315,2021-01-01,Damaged,P0097,Home & Kitchen
+ORD014046,2022-01-11,Defective,P0058,Electronics
+ORD001047,2023-05-05,Damaged,P0026,Fashion
+ORD001863,2019-12-18,Not as Described,P0042,Electronics
+ORD011295,2024-11-24,Changed Mind,P0054,Electronics
+ORD015826,2023-11-18,Changed Mind,P0091,Home & Kitchen
+ORD006311,2022-08-30,Damaged,P0092,Home & Kitchen
+ORD004307,2025-01-18,Changed Mind,P0042,Electronics
+ORD001181,2023-01-14,Defective,P0043,Electronics
+ORD011683,2020-03-21,Size Issue,P0014,Fashion
+ORD012516,2020-11-29,Not as Described,P0017,Fashion
+ORD001963,2020-12-07,Not as Described,P0064,Electronics
+ORD009848,2024-12-18,Not as Described,P0071,Home & Kitchen
+ORD000109,2023-01-02,Size Issue,P0018,Fashion
+ORD004625,2023-03-31,Not as Described,P0099,Home & Kitchen
+ORD000017,2020-11-26,Wrong Item,P0097,Home & Kitchen
+ORD014250,2019-06-22,Defective,P0066,Electronics
+ORD007878,2023-11-19,Not as Described,P0046,Electronics
+ORD002652,2022-04-03,Defective,P0034,Electronics
+ORD017062,2022-02-25,Damaged,P0076,Home & Kitchen
+ORD004980,2023-04-27,Changed Mind,P0083,Home & Kitchen
+ORD011357,2021-06-17,Size Issue,P0012,Fashion
+ORD016102,2022-02-19,Not as Described,P0084,Home & Kitchen
+ORD017143,2024-12-26,Changed Mind,P0105,Home & Kitchen
+ORD017367,2019-10-31,Not as Described,P0109,Home & Kitchen
+ORD001527,2024-02-16,Changed Mind,P0100,Home & Kitchen
+ORD003795,2022-07-18,Not as Described,P0003,Fashion
+ORD002622,2023-11-08,Changed Mind,P0010,Fashion
+ORD007402,2023-09-13,Not as Described,P0018,Fashion
+ORD006127,2024-07-01,Changed Mind,P0071,Home & Kitchen
+ORD015346,2023-09-09,Not as Described,P0106,Home & Kitchen
+ORD014543,2024-02-04,Defective,P0053,Electronics
+ORD012776,2020-03-01,Changed Mind,P0107,Home & Kitchen
+ORD014818,2024-11-02,Wrong Item,P0108,Home & Kitchen
+ORD001838,2023-11-08,Damaged,P0080,Home & Kitchen
+ORD010307,2024-12-26,Damaged,P0092,Home & Kitchen
+ORD015529,2023-03-06,Defective,P0065,Electronics
+ORD012950,2022-06-15,Late Delivery,P0069,Electronics
+ORD017072,2022-01-27,Late Delivery,P0039,Electronics
+ORD015852,2023-11-18,Damaged,P0083,Home & Kitchen
+ORD009500,2022-01-06,Defective,P0046,Electronics
+ORD008363,2024-11-18,Wrong Item,P0104,Home & Kitchen
+ORD012779,2021-04-17,Wrong Item,P0073,Home & Kitchen
+ORD000450,2021-01-27,Size Issue,P0005,Fashion
+ORD004857,2024-12-15,Damaged,P0075,Home & Kitchen
+ORD012406,2022-05-01,Late Delivery,P0046,Electronics
+ORD010864,2024-10-14,Late Delivery,P0057,Electronics
+ORD002118,2023-01-09,Late Delivery,P0040,Electronics
+ORD011895,2019-02-26,Not as Described,P0030,Fashion
+ORD009192,2022-01-02,Defective,P0065,Electronics
+ORD006126,2024-11-30,Changed Mind,P0045,Electronics
+ORD001272,2022-01-11,Damaged,P0020,Fashion
+ORD004867,2020-12-03,Not as Described,P0025,Fashion
+ORD016013,2023-12-02,Not as Described,P0076,Home & Kitchen
+ORD004793,2022-11-07,Changed Mind,P0047,Electronics
+ORD008804,2024-03-21,Not as Described,P0080,Home & Kitchen
+ORD015327,2023-09-12,Changed Mind,P0079,Home & Kitchen
+ORD014019,2021-09-19,Not as Described,P0070,Electronics
+ORD014939,2019-08-24,Not as Described,P0006,Fashion
+ORD017414,2022-02-11,Not as Described,P0093,Home & Kitchen
+ORD006903,2024-01-14,Size Issue,P0007,Fashion
+ORD005702,2019-05-29,Damaged,P0095,Home & Kitchen
+ORD015799,2022-04-13,Wrong Item,P0109,Home & Kitchen
+ORD014261,2020-08-03,Late Delivery,P0061,Electronics
+ORD011473,2021-09-04,Wrong Item,P0106,Home & Kitchen
+ORD015137,2024-07-12,Damaged,P0027,Fashion
+ORD015010,2022-08-21,Changed Mind,P0069,Electronics
+ORD015642,2020-11-02,Not as Described,P0031,Electronics
+ORD008856,2020-06-18,Not as Described,P0045,Electronics
+ORD003069,2019-07-24,Size Issue,P0019,Fashion
+ORD013613,2023-01-21,Not as Described,P0103,Home & Kitchen
+ORD014785,2021-12-12,Changed Mind,P0034,Electronics
+ORD003494,2023-01-27,Not as Described,P0063,Electronics
+ORD002768,2020-12-06,Damaged,P0095,Home & Kitchen
+ORD014966,2020-08-23,Defective,P0059,Electronics
+ORD006399,2024-04-22,Late Delivery,P0045,Electronics
+ORD017337,2022-12-10,Changed Mind,P0068,Electronics
+ORD017221,2021-06-25,Late Delivery,P0045,Electronics
+ORD001042,2023-12-23,Not as Described,P0028,Fashion
+ORD016364,2020-03-07,Not as Described,P0002,Fashion
+ORD000614,2019-12-31,Not as Described,P0094,Home & Kitchen
+ORD004659,2022-06-20,Damaged,P0024,Fashion
+ORD012847,2021-11-22,Not as Described,P0084,Home & Kitchen
+ORD007514,2020-11-20,Not as Described,P0069,Electronics
+ORD014268,2023-11-12,Defective,P0040,Electronics
+ORD009984,2023-10-28,Late Delivery,P0049,Electronics
+ORD014667,2022-02-13,Not as Described,P0026,Fashion
+ORD001458,2019-12-22,Changed Mind,P0056,Electronics
+ORD009514,2022-11-29,Damaged,P0076,Home & Kitchen
+ORD015912,2021-09-18,Not as Described,P0103,Home & Kitchen
+ORD005198,2020-12-02,Changed Mind,P0039,Electronics
+ORD013372,2021-12-02,Not as Described,P0080,Home & Kitchen
+ORD002496,2023-12-11,Not as Described,P0084,Home & Kitchen
+ORD003156,2020-08-26,Not as Described,P0054,Electronics
+ORD017030,2021-07-14,Not as Described,P0012,Fashion
+ORD006993,2019-06-02,Size Issue,P0025,Fashion
+ORD003120,2020-11-05,Defective,P0061,Electronics
+ORD000011,2022-03-14,Size Issue,P0012,Fashion
+ORD010372,2024-12-14,Size Issue,P0014,Fashion
+ORD010744,2024-10-15,Size Issue,P0020,Fashion
+ORD005484,2022-11-26,Late Delivery,P0056,Electronics
+ORD005939,2022-12-10,Damaged,P0107,Home & Kitchen
+ORD007945,2020-12-02,Not as Described,P0037,Electronics
+ORD008575,2021-01-11,Not as Described,P0093,Home & Kitchen
+ORD003717,2021-07-14,Size Issue,P0026,Fashion
+ORD007303,2021-11-17,Late Delivery,P0037,Electronics
+ORD005096,2021-11-11,Not as Described,P0047,Electronics
+ORD001095,2021-05-10,Changed Mind,P0025,Fashion
+ORD005072,2019-06-25,Defective,P0066,Electronics
+ORD000081,2019-11-25,Changed Mind,P0018,Fashion
+ORD004598,2024-12-14,Defective,P0057,Electronics
+ORD005127,2020-08-07,Defective,P0031,Electronics
+ORD012250,2020-03-12,Damaged,P0019,Fashion
+ORD007948,2020-03-27,Damaged,P0023,Fashion
+ORD003895,2021-07-22,Late Delivery,P0033,Electronics
+ORD001576,2023-12-14,Not as Described,P0110,Home & Kitchen
+ORD005617,2022-09-19,Changed Mind,P0023,Fashion
+ORD010628,2021-05-22,Defective,P0057,Electronics
+ORD007989,2023-02-22,Not as Described,P0056,Electronics
+ORD004569,2020-12-01,Changed Mind,P0082,Home & Kitchen
+ORD017205,2021-07-02,Late Delivery,P0042,Electronics
+ORD011605,2021-03-29,Not as Described,P0021,Fashion
+ORD011328,2019-11-04,Late Delivery,P0059,Electronics
+ORD012604,2023-12-06,Not as Described,P0054,Electronics
+ORD009912,2024-09-19,Changed Mind,P0008,Fashion
+ORD006452,2021-11-27,Damaged,P0073,Home & Kitchen
+ORD012656,2023-11-21,Not as Described,P0103,Home & Kitchen
+ORD012627,2020-04-25,Damaged,P0026,Fashion
+ORD012211,2023-11-07,Changed Mind,P0092,Home & Kitchen
+ORD000232,2022-09-05,Changed Mind,P0049,Electronics
+ORD011575,2024-10-21,Wrong Item,P0074,Home & Kitchen
+ORD012974,2021-08-19,Defective,P0044,Electronics
+ORD017216,2024-12-23,Changed Mind,P0014,Fashion
+ORD014954,2023-12-11,Changed Mind,P0006,Fashion
+ORD007334,2021-09-05,Late Delivery,P0058,Electronics
+ORD000434,2022-07-29,Changed Mind,P0028,Fashion
+ORD013853,2020-11-25,Defective,P0043,Electronics
+ORD011017,2020-10-22,Changed Mind,P0064,Electronics
+ORD017789,2024-05-24,Damaged,P0028,Fashion
+ORD007305,2022-02-02,Not as Described,P0023,Fashion
+ORD003767,2020-07-23,Not as Described,P0064,Electronics
+ORD004610,2019-08-07,Changed Mind,P0018,Fashion
+ORD013374,2022-01-06,Defective,P0061,Electronics
+ORD005499,2023-12-14,Not as Described,P0019,Fashion
+ORD005677,2024-06-28,Damaged,P0004,Fashion
+ORD016380,2022-01-15,Late Delivery,P0066,Electronics
+ORD003292,2024-04-06,Size Issue,P0007,Fashion
+ORD006129,2022-04-16,Changed Mind,P0012,Fashion
+ORD013070,2022-08-13,Size Issue,P0001,Fashion
+ORD009445,2023-09-03,Wrong Item,P0104,Home & Kitchen
+ORD012963,2021-12-03,Size Issue,P0027,Fashion
+ORD000699,2023-01-13,Size Issue,P0030,Fashion
+ORD003191,2025-01-01,Not as Described,P0068,Electronics
+ORD009373,2021-01-04,Not as Described,P0088,Home & Kitchen
+ORD014754,2020-10-20,Changed Mind,P0017,Fashion
+ORD016781,2024-03-12,Damaged,P0093,Home & Kitchen
+ORD011363,2023-11-18,Not as Described,P0075,Home & Kitchen
+ORD002973,2024-07-10,Changed Mind,P0047,Electronics
+ORD009711,2022-05-30,Wrong Item,P0110,Home & Kitchen
+ORD014905,2022-10-23,Changed Mind,P0065,Electronics
+ORD009301,2022-12-13,Damaged,P0075,Home & Kitchen
+ORD017372,2021-12-28,Changed Mind,P0056,Electronics
+ORD002323,2022-12-19,Size Issue,P0015,Fashion
+ORD009159,2023-01-21,Not as Described,P0070,Electronics
+ORD010030,2024-10-15,Defective,P0064,Electronics
+ORD008445,2022-09-24,Wrong Item,P0098,Home & Kitchen
+ORD014346,2021-07-22,Defective,P0065,Electronics
+ORD004374,2021-01-08,Not as Described,P0028,Fashion
+ORD016551,2023-12-04,Size Issue,P0008,Fashion
+ORD008177,2019-12-18,Damaged,P0026,Fashion
+ORD003333,2021-01-11,Damaged,P0090,Home & Kitchen
+ORD002412,2022-11-11,Damaged,P0073,Home & Kitchen
+ORD009327,2020-06-20,Damaged,P0024,Fashion
+ORD009324,2023-06-20,Changed Mind,P0035,Electronics
+ORD003341,2022-09-08,Changed Mind,P0090,Home & Kitchen
+ORD012019,2019-09-01,Not as Described,P0051,Electronics
+ORD009552,2022-07-02,Defective,P0067,Electronics
+ORD011133,2021-12-24,Changed Mind,P0075,Home & Kitchen
+ORD010042,2022-01-03,Damaged,P0024,Fashion
+ORD000268,2022-10-28,Damaged,P0015,Fashion
+ORD003666,2023-01-22,Changed Mind,P0039,Electronics
+ORD002019,2021-06-23,Size Issue,P0019,Fashion
+ORD001236,2021-06-20,Late Delivery,P0068,Electronics
+ORD013848,2023-05-04,Damaged,P0109,Home & Kitchen
+ORD013788,2019-04-07,Defective,P0047,Electronics
+ORD004599,2021-06-16,Not as Described,P0016,Fashion
+ORD007545,2020-01-03,Changed Mind,P0057,Electronics
+ORD012437,2021-10-23,Wrong Item,P0082,Home & Kitchen
+ORD009715,2019-11-23,Changed Mind,P0021,Fashion
+ORD015585,2022-01-12,Damaged,P0089,Home & Kitchen
+ORD016812,2023-12-15,Damaged,P0019,Fashion
+ORD006245,2019-04-04,Changed Mind,P0002,Fashion
+ORD017492,2021-03-15,Wrong Item,P0089,Home & Kitchen
+ORD003172,2024-02-07,Changed Mind,P0014,Fashion
+ORD012957,2024-04-02,Not as Described,P0044,Electronics
+ORD017239,2019-02-11,Changed Mind,P0078,Home & Kitchen
+ORD016201,2023-11-15,Not as Described,P0040,Electronics
+ORD013724,2022-10-12,Damaged,P0072,Home & Kitchen
+ORD005755,2019-08-26,Damaged,P0103,Home & Kitchen
+ORD010664,2019-11-02,Changed Mind,P0021,Fashion
+ORD011678,2023-03-27,Not as Described,P0104,Home & Kitchen
+ORD009532,2022-05-11,Wrong Item,P0076,Home & Kitchen
+ORD010013,2019-05-21,Not as Described,P0076,Home & Kitchen
+ORD015572,2019-09-19,Defective,P0059,Electronics
+ORD000312,2021-02-22,Defective,P0040,Electronics
+ORD006368,2019-11-24,Changed Mind,P0009,Fashion
+ORD004227,2022-08-23,Not as Described,P0104,Home & Kitchen
+ORD009851,2021-01-27,Changed Mind,P0104,Home & Kitchen
+ORD003705,2021-10-02,Not as Described,P0105,Home & Kitchen
+ORD005133,2022-02-21,Not as Described,P0071,Home & Kitchen
+ORD010498,2021-10-02,Not as Described,P0103,Home & Kitchen
+ORD017073,2023-12-28,Changed Mind,P0039,Electronics
+ORD003518,2022-05-21,Defective,P0062,Electronics
+ORD002922,2019-07-28,Changed Mind,P0072,Home & Kitchen
+ORD008800,2019-05-05,Damaged,P0087,Home & Kitchen
+ORD013830,2024-12-11,Not as Described,P0026,Fashion
+ORD011016,2024-10-16,Not as Described,P0002,Fashion
+ORD000285,2020-09-18,Late Delivery,P0049,Electronics
+ORD003802,2023-11-27,Not as Described,P0031,Electronics
+ORD006052,2021-06-21,Not as Described,P0102,Home & Kitchen
+ORD005443,2020-12-08,Changed Mind,P0016,Fashion
+ORD005909,2020-11-30,Damaged,P0097,Home & Kitchen
+ORD002462,2019-01-20,Size Issue,P0025,Fashion
+ORD012384,2023-06-13,Wrong Item,P0087,Home & Kitchen
+ORD010615,2023-09-14,Changed Mind,P0094,Home & Kitchen
+ORD014567,2022-03-30,Changed Mind,P0031,Electronics
+ORD016861,2024-08-06,Defective,P0036,Electronics
+ORD005342,2021-03-24,Changed Mind,P0054,Electronics
+ORD012725,2019-04-28,Defective,P0067,Electronics
+ORD010311,2020-07-30,Changed Mind,P0030,Fashion
+ORD013638,2023-10-12,Defective,P0053,Electronics
+ORD009296,2021-12-16,Not as Described,P0082,Home & Kitchen
+ORD011706,2022-02-28,Size Issue,P0017,Fashion
+ORD008662,2019-09-19,Not as Described,P0058,Electronics
+ORD004422,2021-08-23,Not as Described,P0090,Home & Kitchen
