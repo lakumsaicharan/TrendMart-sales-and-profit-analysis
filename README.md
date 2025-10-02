@@ -38,7 +38,7 @@ Some important measures created:
 - `Total Profit = SUM(Orders[Profit])`  
 - `Profit Margin = DIVIDE([Total Profit], [Total Sales])`  
 - `Avg Order Value = DIVIDE([Total Sales], DISTINCTCOUNT(Orders[Order ID]))`  
-- `Customer Retention %` (calculated via returning customers year-over-year)  
+- `Customer Retention % (calculated via returning customers year-over-year)`  
 
 ---
 
@@ -84,7 +84,6 @@ Some important measures created:
 │── 📄 README.md  (this file)
 │── 📄 TrendMart_Dashboard.pbix  (Power BI file)
 │── 📄 Dashboard_Screenshots/  (PNG/JPEG of dashboards)
-│── 📄 CaseStudy.pdf  (2-page portfolio summary)
 │── 📂 Data/ (CSV files if included or link to source)
 ```
 
@@ -101,8 +100,6 @@ This dashboard empowers decision-makers to:
 
 ## 📸 Sample Dashboard Screenshots  
 
-*(Insert screenshots of your Page 1 & Page 2 dashboards here)*  
+ <img width="1417" height="797" alt="image" src="https://github.com/user-attachments/assets/ce2c7d0b-533a-41a8-80b5-d1cac65320f1" />
 
----
-
-✨ **Created with Power BI as part of Data Analytics Portfolio Projects.**  
+<img width="1404" height="787" alt="image" src="https://github.com/user-attachments/assets/bf040aa6-c101-4c5e-a1bd-ed4c4eae4bd3" />
